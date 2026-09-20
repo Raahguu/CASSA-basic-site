@@ -54,22 +54,22 @@ what:
         The CASSA desk is room 18.208, which is located at [Level 2, Building 18, Joondalup Campus](https://maps.app.goo.gl/D6ZhQREXi12gMt468)
     - question: What do I need to do to join?
       answer:
-        All you need to do is fill out [this form](https://clubs.ecuguild.org.au/cassa/), and join our [discord](https://discord.gg/6bmQ9NerwT)
+        All you need to do is fill out [this form](membership/), and join our [discord](https://discord.gg/6bmQ9NerwT)
     - question: How can I get answers to questions about CASSA?
       answer: 
-        If your question isn't answered here, then we recommend asking on the CASSA discord where one of our members/execs can hopefuly answer.
-        If not you can email us at (contact@cassa.au)[mailto:contact@cassa.au]
+        If your question isn't answered here, then we recommend asking on the CASSA discord where hopefully one of our members/execs can answer.
+        If not you can email us at [contact@cassa.au](mailto:contact@cassa.au)
     - question: How can I sponsor CASSA?
       answer:
         Here at CASSA, we are grateful for all our sponsors who assist us and our members in having the best possible club experience.
-        For any inquires, feel free to get in touch with us at (contact@cassa.au)[mailto:contact@cassa.au?subject=Sponsorship Inquiry]
+        For any inquires, feel free to get in touch with us at [contact@cassa.au](mailto:contact@cassa.au?subject=Sponsorship%20inquiry)
 
 
 
 join:
   eyebrow: join
   title: Become a Member
-  text: If you find this interesting, and want to join, its free, and as easy as filling out a [form](https://clubs.ecuguild.org.au/cassa/), then joining our [discord](https://discord.gg/6bmQ9NerwT). We accept any ECU student that is willing and intrested in what we do.
+  text: If you find this interesting, and want to join, its free, and as easy as filling out a [form](membership/), then joining our [discord](https://discord.gg/6bmQ9NerwT). We accept any ECU student that is willing and intrested in what we do.
   label: Become a Member Today
-  url: https://clubs.ecuguild.org.au/cassa/
+  url: membership/
   style: primary

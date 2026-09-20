@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: Posts and announcements.
+description: articles and announcements.
 type: blog
 icon: fa-solid fa-blog
 sidebar_root_for: self
@@ -15,4 +15,4 @@ cascade:
   reading_time: true
 ---
 
-Follow CASSA through articles, and announcements.
+Follow CASSA through articles and announcements.

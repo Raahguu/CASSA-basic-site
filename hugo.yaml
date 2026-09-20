@@ -52,7 +52,7 @@ params:
     theme_color: '#343e44'
     # typography: system # Set the website default font
     image_zoom: true
-    share: [discord, instagram, copy]
+    # share: [discord, instagram, copy]
     # feedback:
     #   enable: true
     #   reasons: true
