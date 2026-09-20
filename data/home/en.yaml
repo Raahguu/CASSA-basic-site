@@ -1,37 +1,75 @@
-sections: [hero, cards, cta]
+sections:
+  - hero
+  - type: cards
+    key: intro
+  - type: faq
+    key: what
+  - type: cta
+    key: join
 
 hero:
   align: center
-  eyebrow: Open-source project starter
+  eyebrow: Computing and Security Student Association
   title_lines:
-    - words: [{ text: Your project. }]
-    - words: [{ text: Clearly documented. }]
-  lead: A ready-to-edit home for documentation, project updates, and long-form guides.
+    - words: [{ text: CASSA }]
+  lead: An ECU student club of people who share an interest in computer science, cyber security, and related fields.
   actions:
-    - { label: Read the docs, url: docs/, icon: fa-solid fa-book, style: primary }
-    - { label: Follow the tutorial, url: book/, icon: fa-solid fa-arrow-right, style: ghost }
+    - { label: Join our Discord, url: https://discord.gg/6bmQ9NerwT, icon: fa-brands fa-discord, style: primary }
+    - { label: See what we've done, url: blog/, icon: fa-solid fa-arrow-right, style: ghost }
 
-cards:
-  eyebrow: Start with structure
-  title: Everything has a place
+intro:
+  eyebrow: Intro
+  title: What is CASSA?
+  text: CASSA is an academic club that brings together Computer Science, Cyber Security, IT students, and Tech Enthusiasts alike. We run a variety of events, and even have a help desk at [Level 2, Building 18, Joondalup Campus](https://maps.app.goo.gl/D6ZhQREXi12gMt468)
   columns: 3
   items:
-    - title: Blog
-      desc: Publish posts, design notes, and release announcements.
-      icon: fa-solid fa-pen-nib
-      url: blog/
-    - title: Docs
-      desc: Organize reference material as Introduction, Get Started, Tutorial, and Reference.
-      icon: fa-solid fa-book-open
-      url: docs/
-    - title: Book
-      desc: Teach a complete workflow in a focused, sequential reading experience.
-      icon: fa-solid fa-graduation-cap
-      url: book/
+    - title: Technical Events
+      desc: We run events such as Learn 2 Linux (L2L) that help you learn key computing/security skills either for fun, or the workforce.
+      icon: fa-solid fa-gears
+    - title: Social Events
+      desc: We run events such as the Start of Semester Social (SOSS), to help you expand your network and meet like-minded indivduals.
+      icon: fa-solid fa-users
+    - title: Industry Events
+      desc: We run events such as the Industry Connect, to help you learn from professionals, and ask them any questions you have.
+      icon: fa-solid fa-briefcase
 
-cta:
-  title: Make this starter yours.
-  text: Change the project name and URL, replace the sample copy, and publish.
-  label: Get started
-  url: docs/get-started/
+what:
+  eyebrow: About CASSA
+  title: Common Questions
+  text: Common things people want to know about CASSA before joining
+  items:
+    - question: What is CASSA's purpose?
+      answer: 
+        The purpose of CASSA is to promote knowledge and understanding of computing and security in the ECU university community, through the organisation of events, workshops, and other activities that will foster learning and collaboration amount members.
+        We strive to forge connections between you and teh future leaders and peers within your industry as well as the current industry leaders through our tailor made events.
+      open: true
+    - question: Who can join?
+      answer: 
+        All ECU students can join, you don't need to be studying a computing/security course to become a member, just be interested in tech/security
+    - question: When did CASSA start?
+      answer:
+        The furthest back we have is 2005, but if you happen to have any records about CASSA dating further back, please let us know
+    - question: Where is the CASSA desk?
+      answer: 
+        The CASSA desk is room 18.208, which is located at [Level 2, Building 18, Joondalup Campus](https://maps.app.goo.gl/D6ZhQREXi12gMt468)
+    - question: What do I need to do to join?
+      answer:
+        All you need to do is fill out [this form](https://clubs.ecuguild.org.au/cassa/), and join our [discord](https://discord.gg/6bmQ9NerwT)
+    - question: How can I get answers to questions about CASSA?
+      answer: 
+        If your question isn't answered here, then we recommend asking on the CASSA discord where one of our members/execs can hopefuly answer.
+        If not you can email us at (contact@cassa.au)[mailto:contact@cassa.au]
+    - question: How can I sponsor CASSA?
+      answer:
+        Here at CASSA, we are grateful for all our sponsors who assist us and our members in having the best possible club experience.
+        For any inquires, feel free to get in touch with us at (contact@cassa.au)[mailto:contact@cassa.au?subject=Sponsorship Inquiry]
+
+
+
+join:
+  eyebrow: join
+  title: Become a Member
+  text: If you find this interesting, and want to join, its free, and as easy as filling out a [form](https://clubs.ecuguild.org.au/cassa/), then joining our [discord](https://discord.gg/6bmQ9NerwT). We accept any ECU student that is willing and intrested in what we do.
+  label: Become a Member Today
+  url: https://clubs.ecuguild.org.au/cassa/
   style: primary

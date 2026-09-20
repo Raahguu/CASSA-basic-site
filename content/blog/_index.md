@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: Posts, design notes, and release announcements.
+description: Posts and announcements.
 type: blog
 icon: fa-solid fa-blog
 sidebar_root_for: self
@@ -15,4 +15,4 @@ cascade:
   reading_time: true
 ---
 
-Follow the project through articles, design decisions, and release notes.
+Follow CASSA through articles, and announcements.

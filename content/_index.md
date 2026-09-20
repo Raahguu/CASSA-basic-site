@@ -1,4 +1,4 @@
 ---
-title: Project Name
-description: Documentation, updates, and a practical guide for your project.
+title: CASSA
+description: Computing and Security Student Association
 ---

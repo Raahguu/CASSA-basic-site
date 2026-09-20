@@ -1,0 +1,10 @@
+published: true
+version: "2023"
+
+channels:
+  - id: pdf
+    kind: rolling
+    title: CASSA Constitution
+    note: Download the latest version of our constitution
+    icon: fa-solid fa-file-lines
+    url: /about/constitution/2023.pdf
