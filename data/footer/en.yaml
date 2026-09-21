@@ -1,0 +1,12 @@
+brand:
+  name: CASSA
+  tagline: Computing and Security Student Association
+columns:
+  - title: Socials
+    links:
+      - { label: Discord, url: https://discord.gg/6bmQ9NerwT }
+      - { label: Instagram, url: https://instagram.com/ecucassa }
+  - title: Project
+    links:
+      - { label: Static Site, url: /, external: true }
+      - { label: Dynamic Site, url: https://cassa.au/, external: true}

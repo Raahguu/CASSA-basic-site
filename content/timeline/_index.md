@@ -19,7 +19,7 @@ menu:
         padding: 2rem 0;
         margin-top: 3rem;
         text-align: center;
-        background-color: #151B22;
+        background-color: var(--td-shell-card);
         width: 100%;
     }
 </style>
@@ -29,8 +29,51 @@ menu:
 > CASSA only has records back to 2005, if you have any records that go further back then this, please let us know at [support@cassa.au](mailto:support@cassa.au?subject=Timeline%20Records)
 
 
+## 2026
+---
+
+### September 2026
+- Nivedha "Missy" [Last Name] steps down from Treasurer, and Monique Cornwall replaces her
+
+### August 2026
+- CASSA runs L2L hosted by La "Laura" Lou using the docker labs infastructure
+
+### July 2026
+- The ECU Guild, CASSA, Red Room, ISSA, Aviators ECU, Rainbow Connect, AFS, Nippon Connect Society, ECU Tabletop, ECU Women In Business, Stitches and Verbal Itches, ECU Space Club, ECU Well Being, and WIEECU, come together and host Inter Club Bowling
+
+### June 2026
+- End of Semester Social and AGM are hosted
+- The new executive Committee is voted in:
+    - President: Dio Lea
+    - Vice-President: Nicole Mortin
+    - Secretary: David Thomas
+    - Treasurer: Nivedha "Missy" [Last Name]
+    - Tech Admin: La "Laura" Luo
+- CASSA officialy launches its Palworld server
+
+### May 2026
+- CASSA along with RedRoom, ISSA, ECU WIBLA, and ECU TableTop run an intraclub trivia night
+- the Game Dev Club subcommittee officaly forms and starts running their weekly meet ups
+
+### April 2026
+- Learn 2 Linux is held by Benjamin Dodson using the Docker Labs infastructure
+- CASSA holds a collab with GG Gamming Lounge to have a games night
+
+### March 2026
+- CASSA officialy announces and starts selling Merch in the form of t-shirts and hoodies
+
+### Feburary 2026
+- Semester one Guild Fair is held allowing CASSA to meet new people 
+
+
 ## 2025
 ---
+
+### December 2025
+- End of Semester Social is held by CASSA using a Murder Mystery theme created by Erin Hollingsworth and Harper Irwin
+
+### November 2025
+- The Sub-committee RedRoom officialy disaffiliates from CASSA and becomes its own affiliated club
 
 ### October 2025
 - Erwin Thomas is announced new tech admin
@@ -40,6 +83,7 @@ menu:
     - Emily M G from RAC
     - Mason Crawford from Capgemini
 - Learn to Linux workshop held delivered by our esteemed president Lachlan Marshall with special thanks to Laith Striegher and Joshua Finlayson for their tireless work on the new infrastructure
+- CASSA wins the Guild 'Best Collaboration of the Year' Award for the intraclub trivia event
 
 ### September 2025
 - Search for new tech admin begins
@@ -329,18 +373,306 @@ Old Helpdesk
     - Gareth Clarson – Tech Admin
     - Sam West – Events Co-ordinator
     - Ashley Woodiss-Field – Presidential Advisor
-
-#### Technical Sub-Committee Team:
-- Gareth Clarson – Tech Committee Chair
-- Damion Brown – Tech Team Member
-- Dan Buzzard – Tech Team Member
-- Taylor Spinks – Tech Team Member
-- William Termini – Tech Team Member
-- David Maxwell – Tech Team Member
-- JamesTK – UniIRC Admin
-- Kash Holmes – Tech Support
+- Technical Sub-Committee Team:
+    - Gareth Clarson – Tech Committee Chair
+    - Damion Brown – Tech Team Member
+    - Dan Buzzard – Tech Team Member
+    - Taylor Spinks – Tech Team Member
+    - William Termini – Tech Team Member
+    - David Maxwell – Tech Team Member
+    - JamesTK – UniIRC Admin
+    - Kash Holmes – Tech Support
 
 
 ## 2017
 ---
 
+### Semester 2
+- A new Executive Committee is elected:
+    - Jean-luc McGrath – President
+    - Dan Buzzard – Vice President
+    - Ginger Ackers – Treasurer
+    - Alex Macpherson – Secretary
+    - Damion Brown – Acting Tech Admin
+    - Tyson Weatherley – Social Chair
+    - Ashley Woodiss-Field – Presidential Advisor
+
+- Technical Sub-Committee Team:
+    - Damion Brown – Tech Committee Chair
+    - Gareth Clarson – Tech Team Member
+    - David Maxwell – Tech Team Member
+    - Taylor Spinks – Tech Team Member
+    - William Termini – Tech Team Member
+    - Dan Buzzard – Tech Team Member
+    - JamesTK – UniIRC Admin
+    - Kash Holmes – Tech Support
+
+- Social Sub-Committee:
+    - Jean-luc McGrath – Social Committee Chair
+    - Caiden Burkett – Promotions & Events
+    - Rayhab Mokoto – Promotions & Events
+    - Marko Vasev – Promotions & Events
+    - Alex Green – Promotions & Events
+    - Andrea Zonnekus – Events
+    - Tyson Weatherley – Master of Board Games
+
+### Semester 1
+- A new Executive Committee is elected:
+    - Gareth Clarson – President
+    - Dan Buzzard – Vice President
+    - Taylor Spinks – Treasurer
+    - Elliot J – Secretary
+    - Damion Brown – Tech Admin
+    - Jean-luc McGrath – Social Chair
+    - David Maxwell – Presidential Advisor
+
+- Technical Sub-Committee Team:
+    - Damion Brown – Tech Committee Chair
+    - Gareth Clarson – Tech Team Member
+    - David Maxwell – Tech Team Member
+    - Taylor Spinks – Tech Team Member
+    - William Termini – Tech Team Member
+    - Dan Buzzard – Tech Team Member
+    - JamesTK – UniIRC Admin
+    - Kash Holmes – Tech Support
+
+- Social Sub-Committee:
+    - Jean-luc McGrath – Social Committee Chair
+    - Caiden Burkett – Promotions & Events
+    - Rayhab Mokoto – Promotions & Events
+    - Marko Vasev – Promotions & Events
+    - Alex Green – Promotions & Events
+    - Andrea Zonnekus – Events
+    - Tyson Weatherley – Master of Board Games
+
+
+## 2016
+---
+
+### Semester 2
+- A new Executive Committee is elected:
+    - David Maxwell – President
+    - Adam Nygate – Vice President
+    - Dan Buzzard – Treasurer
+    - Elliot J – Secretary
+    - Gareth Clarson – Tech Admin
+    - Mathew Aristei – Social Chair
+    - Ashley Woodis-field – Presidential Advisor
+    - Sam Reid – Representative Chair
+
+- Tech Team:
+    - Gareth Clarson – Tech Admin
+    - Dan Buzzard – Webmaster and Newsletter
+    - David Maxwell – Tech Support
+    - Tobias Needs – Tech Support
+    - William Termini – Tech Team Member
+    - Damion Brown – Tech Team Member
+    - Taylor Spinks – Tech Team Member
+    - Caine Bubb – Tech Team Member
+    - Justin Homsi – Tech Team Member
+    - Mathew Burr – Tech Team Member
+    - Matthew Offrings – Tech Team Member
+    - Roger Harrison – Tech Team Member
+    - Scott Trippins – Tech Team Member
+
+- Social Team:
+    - Mathew Aristei – Social Chair
+    - Caiden Burkett – Promotions & Events
+    - Rayhab Mokoto – Promotions & Events
+    - Marko Vasev – Promotions & Events
+    - Alex Green – Promotions & Events
+
+### Semester 1
+- A new Executive Committe is elected:
+    - David Maxwell – President
+    - Mat Aristei – Vice President
+    - William Termini – Treasurer
+    - Tyson Mcelroy – Secretary
+    - Dan Traeger – Asset Manager
+    - Alex Green – Social Co-Ordinator
+    - Damion Brown – Tech Admin
+    - Adam Foster – Web Admin
+    - Adam Nygate – Employment Advisor
+    - Caiden Burkett – 1st Year Representative
+    - Dan – 2nd Year Representative
+    - Sam Reid – 3rd Year Representative
+    - Ashley Woodis-Field – Post-Grad Representative / Presidential Advisor
+    - Luke Mercuri – Ordinary Committee Member
+    - Jacob Chapman – Ordinary Committee Member
+
+
+## 2015
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - President – Ashley Woodiss-Field
+    - Vice President – David Maxwell
+    - Treasurer – Mathew Aristei
+    - Secretary – Alex Green
+    - Technical Administator – William Termini
+    - Website Administator – Sam Reid
+    - JO Events Manager – Evan Roberts
+    - ML Events Manager – Rylan Gristwood
+
+
+## 2014
+---
+
+## Undated
+- A new Executive Committee is elected:
+    - Alexandra Helens – President
+    - Ashley Woodiss-Field – Vice-President
+    - Damon Baldwin – Secretary
+    - Matthew Aristei – Treasurer
+    - James Taylor – Web Admin
+    - William Termini – Tech Admin
+    - Brandon Bastian – Events Coordinator
+
+
+## 2013
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - Lewis Meier – President
+    - Ashley Woodis-Field – Vice-President
+    - Sam Reid – Treasurer
+    - Brandon Bastian – Secretary
+    - Alexandra Helens – Events Coordinator
+    - James Taylor – Tech Admin
+    - Louis Crossing – Web Admin
+
+
+## 2012
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - Rob McKnight – President
+    - Simon Vin – Vice-President
+    - Luke Spartalis – Secretary
+    - Joshua Norris – Treasurer
+    - Michael Alderman – Tech-Admin
+    - Jason Baseley – Webmaster
+    - Alexandra Helens – Social Events Coordinator
+
+
+## 2011
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - President – Stuart Pearson
+    - Vice President – Randal Adamson
+    - Secretary – Jovin Sveinbjornsson
+    - Secretary – Jetha Chan
+    - Treasurer – Steph Stidolph
+    - Technical Administrator – Rob McKnight
+    - Technical Administrator – Simon Vin
+    - Social Coordinator – Jason Baseley
+    - General Committee Member – Rhys Hunter
+
+
+## 2010
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - President – Jana Buvari
+    - Vice President – Jetha Chan
+    - Secretary – Stuart Pearson
+    - Treasurer – Steph Stidolph
+    - Webmaster – Nick Coucaud
+    - Webmaster – Stuart Pearson
+    - Staff Rep – Peter Hannay
+
+
+## 2009
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - President – Gwyn Hannay
+    - Vice President – David Cooper
+    - Treasurer – Matt Woods
+    - Secretary – Lynette Thompson
+    - Tech Admin – Glen Thompson
+    - Tech Admin – Peter Hannay
+    - Webmaster – Glen Thompson
+    - Staff Representative – Peter Hannay
+    - General Committee – Jetha Chan
+    - General Committee – Stuart Pearson
+    - General Committee – Greg Baatard
+
+
+## 2008
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - Daniel Meakins – President
+    - Matt Woods – Vice President
+    - Dean Bergin – Treasurer & Tech Manager
+    - Phil Rosati – Secretary & Tech Manager
+    - Nic Cope – Presidents Advisor
+    - Greg Baatard – Postgrad Rep
+    - Peter Hannay – Staff Rep
+    - Martin Masek – Staff Rep
+    - Kyle Tedeschi – 3nd Year Students Rep
+    - Gwyn Hannay – 1st Year Students Rep
+
+
+## 2007
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - Nic Cope – President
+    - Peter Hannay – Vice President
+    - Roslyn Dinkgreve – Treasurer & Events
+    - Matt Woods – Secretary of State
+    - Graham Vanderplank – Presidents Advisor
+    - Phil Rosati – Tech Manager
+    - Alexis Guillot – Third Year Rep
+    - Marwan Al-Zarouni – Postgrad Rep
+    - Martin Masek – Staff Rep
+    - Sam Bishop – Commitee Member
+
+
+## 2006
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - Graham Vanderplank – President
+    - Nic Cope – Vice President
+    - Roslyn Dinkgreve – Treasurer
+    - Peter Hannay – Secretary
+    - Joe James – Presidents Advisor
+    - Phil Rosati – Tech Manager 1
+    - Sam Bishop – Tech Manager 2
+    - Jaron Power – First Year Rep
+    - Matt Woods – Second Year Rep
+    - Garry Trinh – Third Year Rep
+    - Marwan Al-Zarouni – Postgrad Rep
+    - Martin Masek – Staff Rep
+
+
+## 2005
+---
+
+### Undated
+- A new Executive Committee is elected:
+    - Joe James – President
+    - David Young – Acting Vice President
+    - Joshua Pore – Treasurer
+    - Georgia Blair – Secretary
+    - Graham Vanderplank – Social Events
+    - Nic Cope – Web Manager
+    - Leo Treasure – First Year Rep
+    - Mark Glorie – General Committee
+    - Ryan Passmore – General Committee
+    - Rowan Sharp – General Committee
+    - Marco Fiscato – General Committee
+    - Chris Bolan – Staff Rep

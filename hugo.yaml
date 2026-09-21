@@ -38,6 +38,7 @@ outputs:
 
 params:
   offline_search: true
+  github_repo: https://github.com/CASSA/static-cassa-website
   copyright:
     authors: CASSA
     from_year: 2026
@@ -49,7 +50,9 @@ params:
     sidebar_menu_foldable: true
     sidebar_icon_policy: groups
     backlinks: true
-    theme_color: '#343e44'
+    navbar_autohide: false
+    breadcrumb: true
+    # theme_color: '#343e44'
     # typography: system # Set the website default font
     image_zoom: true
     # share: [discord, instagram, copy]
@@ -57,12 +60,19 @@ params:
     #   enable: true
     #   reasons: true
 
+    # Search Bar
+    quick_links: [about, timeline, blog]
+    page_context_menu:
+      enable: true
+      assistant_links: false
+
   # Optional repository links. Uncomment after creating your own repository.
   # github_repo: https://github.com/OWNER/REPOSITORY
   # github_branch: main
 
   # Optional brand assets. The starter already supplies a neutral logo.
   logo: icons/logo.png
+  # Replace the word CASSA next to the logo with an image
   # wordmark: icons/wordmark.svg
 
   # Optional Giscus comments. Nothing is loaded until the entire block is set.
