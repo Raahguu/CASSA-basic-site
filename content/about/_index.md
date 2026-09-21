@@ -1,6 +1,6 @@
 ---
 title: About
-description: What is CASSA?
+description: What is CASSA
 icon: fa-solid fa-circle-info
 type: docs
 outputs: [HTML, markdown]

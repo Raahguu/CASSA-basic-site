@@ -1,6 +1,6 @@
 ---
 title: Blog
-description: articles and announcements.
+description: Articles and Announcements
 type: blog
 icon: fa-solid fa-blog
 sidebar_root_for: self

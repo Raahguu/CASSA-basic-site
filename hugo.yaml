@@ -47,6 +47,8 @@ params:
     dark_mode: true
     section_index: cards
     blog_index: cards
+    blog_index_columns: 3
+    blog_index_size: 6
     sidebar_menu_foldable: true
     sidebar_icon_policy: groups
     backlinks: true

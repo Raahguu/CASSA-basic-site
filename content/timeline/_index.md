@@ -34,6 +34,7 @@ menu:
 
 ### September 2026
 - Nivedha "Missy" [Last Name] steps down from Treasurer, and Monique Cornwall replaces her
+- The CASSA Website gets rewritten from Ghost CMS to be in two parts, one dynamic site with three.js, and a static site with Hugo using the OINK theme
 
 ### August 2026
 - CASSA runs L2L hosted by La "Laura" Lou using the docker labs infastructure
