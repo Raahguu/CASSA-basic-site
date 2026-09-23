@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L2L on CASSA</title>
+    <link>http://localhost:1313/tags/l2l/</link>
+    <description>Recent content in L2L on CASSA</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    
+    
+    
+      <lastBuildDate>Mon, 21 Sep 2026 18:01:46 +0800</lastBuildDate>
+    
+    
+      <atom:link href="http://localhost:1313/tags/l2l/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+        <title>Learn 2 Linux Semester 2</title>
+        <link>http://localhost:1313/blog/2026/l2l/</link>
+        <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/blog/2026/l2l/</guid>
+        <description>&lt;h2 id=&#34;l2l&#34;&gt;L2L&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;On the 2nd of September from 11am-2pm in Joondalup Campus, Building 2 Room 126, CASSA ran the 2026 Semester 2 Learn 2 Linux (L2L) workshop.&lt;/p&gt;&#xA;&lt;p&gt;this workshop was led by La &amp;ldquo;Laura&amp;rdquo; Lou, in her first ever workshop. It ran without a hitch using the Docker Labs v1 infastructure to give all the attendees a Linux VM they could connect to through a browser-based webshell.&lt;/p&gt;</description>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical on CASSA</title>
+    <link>http://localhost:1313/tags/technical/</link>
+    <description>Recent content in Technical on CASSA</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    
+    
+    
+      <lastBuildDate>Mon, 21 Sep 2026 18:01:46 +0800</lastBuildDate>
+    
+    
+      <atom:link href="http://localhost:1313/tags/technical/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+        <title>Website Migration</title>
+        <link>http://localhost:1313/blog/2026/site-migration/</link>
+        <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/blog/2026/site-migration/</guid>
+        <description>&lt;h2 id=&#34;what-happened&#34;&gt;What happened?&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The CASSA website used to use the Ghost CMS, but it was decided that as the site is actually static, there is no point using a dynamic CMS platform and hosting the site locally when it cna become static and be hosted in the cloud.&lt;/p&gt;&#xA;&lt;p&gt;This creates the benefit, that if the CASSA severs ever go down or their internet connection drops, the website can still run, increasing the &lt;a href=&#34;https://cassa.au/&#34;&gt;cassa.au&lt;/a&gt; uptime.&lt;/p&gt;</description>
+      </item>
+    <item>
+        <title>Learn 2 Linux Semester 2</title>
+        <link>http://localhost:1313/blog/2026/l2l/</link>
+        <pubDate>Thu, 03 Sep 2026 00:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/blog/2026/l2l/</guid>
+        <description>&lt;h2 id=&#34;l2l&#34;&gt;L2L&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;On the 2nd of September from 11am-2pm in Joondalup Campus, Building 2 Room 126, CASSA ran the 2026 Semester 2 Learn 2 Linux (L2L) workshop.&lt;/p&gt;&#xA;&lt;p&gt;this workshop was led by La &amp;ldquo;Laura&amp;rdquo; Lou, in her first ever workshop. It ran without a hitch using the Docker Labs v1 infastructure to give all the attendees a Linux VM they could connect to through a browser-based webshell.&lt;/p&gt;</description>
+      </item>
+    <item>
+        <title>CASSA x PECAN&#43; CTF Creator Competition 🏆</title>
+        <link>http://localhost:1313/blog/2025/pecan&#43;-creator-comp/</link>
+        <pubDate>Mon, 31 Mar 2025 00:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/blog/2025/pecan&#43;-creator-comp/</guid>
+        <description>&lt;img class=&#34;td-image&#34; src=&#34;http://localhost:1313/blog/2025/pecan+-creator-comp/1.png&#34; alt=&#34;Poster container the details below, with QR codes for the links&#34; width=&#34;650&#34; height=&#34;920&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;h2 id=&#34;design-challenges-for-pecan&#34;&gt;Design challenges for PECAN+!&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Do you want to put your cybersecurity skills to the test in a different way? RedRoom and CASSA are hosting the CTF Creator Contest, where ECU students can design their own CTF challenges! The best challenges will be featured in PECAN+, a national high school CTF competition.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;You only need a ticket if you plan on attending the workshop&lt;/strong&gt;&lt;/p&gt;</description>
+      </item>
+    
+  </channel>
+</rss>

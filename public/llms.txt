@@ -1,0 +1,15 @@
+# CASSA
+
+> Computing and Security Student Association
+
+## Site index
+
+- [Home page](http://localhost:1313/index.md)
+- [About](http://localhost:1313/about/index.md): What is CASSA
+- [Blog](http://localhost:1313/blog/index.md): Articles and Announcements
+- [Membership](http://localhost:1313/membership/index.md): Become a Member
+- [Timeline](http://localhost:1313/timeline/index.md): CASSA over the years
+
+## Site locales
+
+- [English](http://localhost:1313/index.md)

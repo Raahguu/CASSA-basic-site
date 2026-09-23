@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social on CASSA</title>
+    <link>http://localhost:1313/tags/social/</link>
+    <description>Recent content in Social on CASSA</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    
+    
+    
+      <lastBuildDate>Mon, 21 Sep 2026 18:01:46 +0800</lastBuildDate>
+    
+    
+      <atom:link href="http://localhost:1313/tags/social/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+        <title>S1: CASSA Start of Semester Social (SoSS)</title>
+        <link>http://localhost:1313/blog/2025/s1-soss/</link>
+        <pubDate>Mon, 10 Mar 2025 00:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/blog/2025/s1-soss/</guid>
+        <description>&lt;h2 id=&#34;start-of-semester-social-soss&#34;&gt;Start of Semester Social (SoSS)&#xA;&lt;/h2&gt;&#xA;&lt;img class=&#34;td-image&#34; src=&#34;http://localhost:1313/blog/2025/s1-soss/1.png&#34; alt=&#34;image of president Lachlan with Steve Harvey&#34; width=&#34;1200&#34; height=&#34;1727&#34; loading=&#34;lazy&#34; decoding=&#34;async&#34;&gt;&lt;p&gt;We started 2025 with a bang, enjoying a very successful start of semester social. 30+ people came and enjoyed a night of games, highlighted by a CASSA and computer science inspired game of Family Feud hosted by our own Steve Harvey, the beloved president Lachlan Marshall.&lt;/p&gt;&#xA;&lt;p&gt;We look forward to seeing everyone on campus and discord - CASSA committee&lt;/p&gt;</description>
+      </item>
+    
+  </channel>
+</rss>
