@@ -38,7 +38,7 @@ outputs:
 
 params:
   offline_search: true
-  github_repo: https://github.com/CASSA/static-cassa-website
+  github_repo: https://github.com/CASSA/static-CASSA-website
   copyright:
     authors: CASSA
     from_year: 2026
